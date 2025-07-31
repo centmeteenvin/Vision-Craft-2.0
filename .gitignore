@@ -13,3 +13,4 @@ minecraft/shaderpacks/*
 !minecraft/shaderpacks/*.zip
 
 minecraft/emi.json
+minecraft/local/
