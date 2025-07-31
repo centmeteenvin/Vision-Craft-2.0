@@ -21,3 +21,5 @@ minecraft/waypoints/
 minecraft/defaultconfigs/
 minecraft/command_history.txt
 minecraft/TrashSlotSaveState.json
+
+minecraft/observable_announce
