@@ -11,3 +11,5 @@ minecraft/screenshots/
 
 minecraft/shaderpacks/*
 !minecraft/shaderpacks/*.zip
+
+minecraft/emi.json

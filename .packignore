@@ -1,10 +1,10 @@
-
-minecraft/options.txt
-minecraft/logs/
 minecraft/config/
+minecraft/downloads/
+minecraft/logs/
+minecraft/options.txt
 minecraft/saves/
+minecraft/screenshots/
+minecraft/server-resource-packs/
 minecraft/usercache.json
 minecraft/usernamecache.json
-minecraft/server-resource-packs/
-minecraft/downloads/
-minecraft/screenshots/
+minecraft/emi.json
