@@ -1,1 +1,23 @@
-{"hintsSeen":[],"cachedSettings":{"net/minecraft/client/gui/screens/inventory/InventoryScreen":{"slotX":60,"slotY":-111,"anchorX":0.5,"anchorY":0.5,"isEnabled":true,"isLocked":false}}}
+{
+    "hintsSeen": [
+        "toggleOn"
+    ],
+    "cachedSettings": {
+        "net/minecraft/client/gui/screens/inventory/InventoryScreen": {
+            "slotX": 60,
+            "slotY": -111,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "isEnabled": true,
+            "isLocked": false
+        },
+        "top/theillusivec4/curios/client/gui/CuriosScreen": {
+            "slotX": -64,
+            "slotY": -111,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "isEnabled": true,
+            "isLocked": false
+        }
+    }
+}
